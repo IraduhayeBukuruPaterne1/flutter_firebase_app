@@ -1,0 +1,47 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.yaml
+flutter_*.lock
+.idea/
+.gradle/
+.settings/
+.vscode/
+*.dart_tool/
+*.pub-cache/
+
+# Firebase related
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Miscellaneous
+*.log
+*.lock
+*.tmp
+*.swp
+*.sublime-workspace
+*.sublime-project
+*.iml
+*.ipr
+*.iws
+*.class
+
+# IntelliJ related
+*.iml
+.idea/
+*.iml
+*.ipr
+
+# VS Code related
+.vscode/
+
+# Mac related
+.DS_Store
+
+# Windows related
+Thumbs.db
+
+# Environment files
+.env
